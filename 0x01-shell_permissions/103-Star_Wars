@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-open video.StarWars IV
+telnet towel.blinkenlights.nl
