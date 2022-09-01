@@ -13,3 +13,4 @@ a script that adds execute permission to the owner and the group owner, and read
 Other users: all the permissions
 sets the mode of the file hello to
 sets the mode of the file hello to
+ a script that sets the mode of the file hello the same as olleh’s mode
