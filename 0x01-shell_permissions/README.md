@@ -18,3 +18,4 @@ sets the mode of the file hello to
 a script that adds execute permission to all subdirectories of the current directory for the owner
 a script that adds execute permission to all subdirectories of the current directory for the owner
 a script that adds execute permission to all subdirectories of the current directory for the owner
+a script that adds execute permission to all subdirectories of the current directory for the owner
