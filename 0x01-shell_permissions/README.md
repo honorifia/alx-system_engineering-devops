@@ -23,3 +23,4 @@ a script that adds execute permission to all subdirectories of the current direc
 a script that adds execute permission to all subdirectories of the current directory for the owner
 a script that creates a directory called my_dir with permissions 751 in the working directory.
 a script that creates a directory called my_dir with permissions 751 in the working directory.
+a script that creates a directory called my_dir with permissions 751 in the working directory.
