@@ -46,3 +46,5 @@ a script that deletes all the regular files (not the directories) with a .js
 
 100-empty_casks a command that finds all empty files and directories in the current directory and all sub-directories
 
+101-gifs a command that finds all empty files and directories in the current directory and all sub-directories
+
