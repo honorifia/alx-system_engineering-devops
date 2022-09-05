@@ -18,3 +18,5 @@ Display the content of /etc/passwd and /etc/hosts
 
 9-duplicate_last_line a script that duplicates the last line of the file iacta
 
+a script that deletes all the regular files (not the directories) with a .js
+
