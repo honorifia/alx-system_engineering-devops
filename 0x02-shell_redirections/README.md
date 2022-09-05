@@ -40,3 +40,5 @@ a script that deletes all the regular files (not the directories) with a .js
 
 20-hiago Create a script that removes all letters c and C from input
 
+21-reverse a script that reverse its input
+
