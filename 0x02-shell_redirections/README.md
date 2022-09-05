@@ -20,3 +20,5 @@ Display the content of /etc/passwd and /etc/hosts
 
 a script that deletes all the regular files (not the directories) with a .js
 
+11-directories a script that counts the number of directories and sub-directories in the current directory
+
