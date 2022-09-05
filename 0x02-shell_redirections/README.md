@@ -28,3 +28,5 @@ a script that deletes all the regular files (not the directories) with a .js
 
 14-findthatword Display lines containing the pattern “root” from the file /etc/passwd
 
+15-countthatword Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+
