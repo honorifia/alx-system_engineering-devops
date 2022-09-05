@@ -34,3 +34,5 @@ a script that deletes all the regular files (not the directories) with a .js
 
 17-hidethisword Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 
+18-letteronly Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+
