@@ -12,3 +12,5 @@ Display the content of /etc/passwd and /etc/hosts
 
 6-third_line a script that displays the third line of the file iactaa script that displays the third line of the file iacta
 
+7-file a shell script that creates a file
+
