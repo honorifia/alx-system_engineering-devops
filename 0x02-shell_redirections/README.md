@@ -14,3 +14,5 @@ Display the content of /etc/passwd and /etc/hosts
 
 7-file a shell script that creates a file
 
+8-cwd_state a script that writes into the file ls_cwd_content the result of the command ls -la
+
