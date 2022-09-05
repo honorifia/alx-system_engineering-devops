@@ -50,3 +50,5 @@ a script that deletes all the regular files (not the directories) with a .js
 
 102-acrostic a script that decodes acrostics that use the first letter of each line
 
+103-the_biggest_fan a script that parses web servers logs in TSV format as input and displays
+
