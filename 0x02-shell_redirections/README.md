@@ -26,3 +26,5 @@ a script that deletes all the regular files (not the directories) with a .js
 
 13-unique a script that takes a list of words as input and prints only words that appear exactly once
 
+14-findthatword Display lines containing the pattern “root” from the file /etc/passwd
+
