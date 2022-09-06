@@ -20,3 +20,5 @@
 
 8-true_knowledge a script that prints the result of the addition of 128 with the value
 
+9-divide_and_rule a script that prints the result of POWER divided by DIVIDE
+
