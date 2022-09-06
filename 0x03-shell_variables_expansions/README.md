@@ -32,3 +32,5 @@
 
 13-print_float a script that prints a number with two decimal places
 
+100-decimal_to_hexadecimal a script that converts a number from base 10 to base 16
+
