@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# The nginx configuration
+sudo apt -y  update
+sudo apt install ngnix -y
+
+# Execute the sed command to add the custom header line
+sudo sed -i "s/^http {/&\n\t add_header X-Served-By \$hostname/" /etc/nginx/nginx.conf
+sudo service nginx restart
