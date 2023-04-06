@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # A bash script that changes nginx port to 80
-sudo awk '{sub("listen 8080 default_server;", "listen 80 default_server;")}1' /etc/nginx/sites-enabled/default > temp && sudo mv temp /etc/nginx/sites-enabled/default
-# restart Nginx
-sudo service nginx restart
+sudo apt-get update
+sudo service nginx stop
+sudo sed -i 's/listen 8080 default_server;/listen 80 default_server;/' /etc/nginx/sites-enabled/default
+sudo service nginx start
 
