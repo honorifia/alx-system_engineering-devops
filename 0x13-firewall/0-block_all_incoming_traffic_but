@@ -8,6 +8,6 @@ ufw disable
 ufw enable
 ufw default deny incoming
 ufw default allow outgoing
-utf allow OpenSSH
+utf allow 80/tcp
 ufw allow 22/tcp
 ufw allow 443/tcp
