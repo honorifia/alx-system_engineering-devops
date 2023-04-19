@@ -9,7 +9,6 @@ ufw enable
 #Exceptions
 ufw default deny incoming
 ufw default allow outgoing
-utf allow 80/tcp
-utf allow OpenSSH
+ufw allow 80/tcp
 ufw allow 22/tcp
 ufw allow 443/tcp
